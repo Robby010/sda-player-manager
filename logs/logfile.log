@@ -1,0 +1,38 @@
+INFO  | 2019-06-23 12:49:11 | [main] player_manager.App (App.java:20) - main(): IN: 
+INFO  | 2019-06-23 12:49:11 | [main] player_manager.App (App.java:24) - main():OUT:
+INFO  | 2019-06-23 12:49:37 | [main] player_manager.App (App.java:20) - main(): IN: 
+INFO  | 2019-06-23 12:49:37 | [main] player_manager.App (App.java:24) - main():OUT:
+INFO  | 2019-06-23 12:50:37 | [main] player_manager.App (App.java:20) - main(): IN: 
+INFO  | 2019-06-23 12:50:37 | [main] player_manager.App (App.java:24) - main():OUT:
+INFO  | 2019-06-23 12:53:16 | [main] player_manager.App (App.java:21) - main(): IN: 
+INFO  | 2019-06-23 12:53:16 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+INFO  | 2019-06-23 12:53:17 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+INFO  | 2019-06-23 12:53:17 | [main] player_manager.App (App.java:30) - main():OUT:
+DEBUG | 2019-06-23 12:56:02 | [main] player_manager.App (App.java:21) - main(): IN: 
+DEBUG | 2019-06-23 12:56:02 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+DEBUG | 2019-06-23 12:56:03 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+DEBUG | 2019-06-23 12:56:03 | [main] player_manager.App (App.java:30) - main():OUT:
+DEBUG | 2019-06-23 12:57:16 | [main] player_manager.App (App.java:21) - main(): IN: 
+DEBUG | 2019-06-23 12:57:16 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+DEBUG | 2019-06-23 12:57:17 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+DEBUG | 2019-06-23 12:57:17 | [main] player_manager.App (App.java:30) - main():OUT:
+DEBUG | 2019-06-23 12:57:45 | [main] player_manager.App (App.java:21) - main(): IN: 
+DEBUG | 2019-06-23 12:57:45 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+DEBUG | 2019-06-23 12:57:46 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+DEBUG | 2019-06-23 12:57:46 | [main] player_manager.App (App.java:30) - main():OUT:
+DEBUG | 2019-06-23 12:57:57 | [main] player_manager.App (App.java:21) - main(): IN: 
+DEBUG | 2019-06-23 12:57:57 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+DEBUG | 2019-06-23 12:57:58 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+DEBUG | 2019-06-23 12:57:58 | [main] player_manager.App (App.java:30) - main():OUT:
+DEBUG | 2019-06-23 13:00:00 | [main] player_manager.App (App.java:21) - main(): IN: 
+DEBUG | 2019-06-23 13:00:00 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+DEBUG | 2019-06-23 13:00:01 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+DEBUG | 2019-06-23 13:00:01 | [main] player_manager.App (App.java:30) - main():OUT:
+DEBUG | 2019-06-23 13:03:13 | [main] player_manager.App (App.java:21) - main(): IN: 
+DEBUG | 2019-06-23 13:03:13 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+DEBUG | 2019-06-23 13:03:14 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+DEBUG | 2019-06-23 13:03:14 | [main] player_manager.App (App.java:30) - main():OUT:
+DEBUG | 2019-06-23 13:03:29 | [main] player_manager.App (App.java:21) - main(): IN: 
+DEBUG | 2019-06-23 13:03:29 | [main] player_manager.App (App.java:37) - parseAllPlayers():IN
+DEBUG | 2019-06-23 13:03:30 | [main] player_manager.App (App.java:51) - parseAllPlayers():OUT
+DEBUG | 2019-06-23 13:03:30 | [main] player_manager.App (App.java:30) - main():OUT:
